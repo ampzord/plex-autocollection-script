@@ -32,5 +32,13 @@ python3 main.py
 
 ---
 
+### Credits
+
 Using ```plex-autocollections-master``` which is a fork of [plex-autocollections](https://github.com/alex-phillips/plex-autocollections) made by [Alex Philips](https://github.com/alex-phillips).
+
+---
+
+## License
+
+This project is licensed under the terms of the **MIT** [license](https://github.com/ampzord/plex-autollection-script/blob/master/LICENSE).
 
