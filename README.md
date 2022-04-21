@@ -32,6 +32,14 @@ python3 main.py
 
 ---
 
+### Result
+
+![Oscar Winners](https://i.imgur.com/Ob83ZYP.png)
+
+If the Movie doesn't exist in your Plex Library it will simply not be added to the Collection.
+
+---
+
 ### Credits
 
 Using ```plex-autocollections-master``` which is a fork of [plex-autocollections](https://github.com/alex-phillips/plex-autocollections) made by [Alex Philips](https://github.com/alex-phillips).
